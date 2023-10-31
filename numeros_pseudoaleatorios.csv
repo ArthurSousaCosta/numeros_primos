@@ -1,0 +1,23 @@
+Algoritmo,Tamanho do número,Tempo médio para gerar em µs
+Congruência Linear,40 bits,0.3719995584106073
+Congruência Linear,56 bits,0.3399999695830047
+Congruência Linear,80 bits,0.3199999628122896
+Congruência Linear,128 bits,0.3580003249226138
+Congruência Linear,168 bits,0.32200019632000476
+Congruência Linear,224 bits,0.3219996142433956
+Congruência Linear,256 bits,0.35799988836515695
+Congruência Linear,512 bits,0.427999984822236
+Congruência Linear,1024 bits,0.5199998850002885
+Congruência Linear,2048 bits,0.6579996988875791
+Congruência Linear,4096 bits,1.8060005095321685
+Additive Lagged Fibonacci,40 bits,0.37600009818561375
+Additive Lagged Fibonacci,56 bits,0.3379996633157134
+Additive Lagged Fibonacci,80 bits,0.3580003249226138
+Additive Lagged Fibonacci,128 bits,0.35999997635371983
+Additive Lagged Fibonacci,168 bits,0.37000005249865353
+Additive Lagged Fibonacci,224 bits,0.3759998799068853
+Additive Lagged Fibonacci,256 bits,0.3859997377730906
+Additive Lagged Fibonacci,512 bits,0.41600018448662013
+Additive Lagged Fibonacci,1024 bits,0.47599998652003706
+Additive Lagged Fibonacci,2048 bits,0.5640002200379968
+Additive Lagged Fibonacci,4096 bits,1.0979997750837356
